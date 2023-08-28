@@ -1,0 +1,44 @@
+body,html{
+    height: 100%;
+    margin: 25px;
+    width: 700px;
+}
+ 
+h1{
+    color: #cf2828;
+}
+
+h2{
+    color: #cf2828;
+}
+
+h3{
+    color: #0a2250;
+}
+
+
+p{
+    color: #0a2250;
+    font-size: 18px;
+}
+
+.div-table{
+    display:table;
+    width: 700px;
+}
+.div-table-row{
+    display:table-row;
+    width: 30%;
+}
+.div-table-col{/*border: 1px solid #484848;*/
+    display:table-cell; 
+    padding: 5px; 
+    width: 70%;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
